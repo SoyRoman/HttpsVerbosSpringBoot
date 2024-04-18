@@ -18,6 +18,7 @@ Este proyecto es una aplicación de gestión de estudiantes desarrollada en Java
 - **Mongo Express**: Interfaz de usuario web para administrar la base de datos MongoDB.
 - **Spring Boot**: Marco de trabajo de desarrollo de aplicaciones Java que facilita la creación de aplicaciones Spring.
 - **Lombok**: Biblioteca Java que ayuda a reducir el código redundante generando automáticamente métodos de acceso (getter/setter), constructores, etc.
+- **Docker**: Plataforma de contenedores que simplifica el despliegue de aplicaciones en entornos aislados.
 
 ## Conceptos Clave
 
@@ -26,13 +27,15 @@ Este proyecto es una aplicación de gestión de estudiantes desarrollada en Java
 - **Spring Boot**: Marco de trabajo de Spring que facilita la creación de aplicaciones Java.
 - **MongoDB**: Base de datos NoSQL orientada a documentos.
 - **Mongo Express**: Interfaz de usuario web para MongoDB que permite administrar y visualizar datos de la base de datos.
+- **Docker**: Plataforma de contenedores que simplifica la creación, el despliegue y la gestión de aplicaciones en entornos aislados.
 
 ## Ejecución del Proyecto
 
 1. Clona el repositorio a tu máquina local.
-2. Asegúrate de tener MongoDB instalado y ejecutándose en tu sistema.
-3. Ejecuta la aplicación Spring Boot.
-4. Accede a la interfaz de usuario de Mongo Express para administrar tu base de datos.
+2. Asegúrate de tener Docker instalado y ejecutándose en tu sistema.
+3. Construye la imagen de Docker para la aplicación Spring Boot.
+4. Ejecuta un contenedor Docker basado en la imagen construida.
+5. Accede a la interfaz de usuario de Mongo Express para administrar tu base de datos.
 
 ## Contribución
 
