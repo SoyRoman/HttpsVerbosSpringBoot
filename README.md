@@ -37,10 +37,4 @@ Este proyecto es una aplicación de gestión de estudiantes desarrollada en Java
 4. Ejecuta un contenedor Docker basado en la imagen construida.
 5. Accede a la interfaz de usuario de Mongo Express para administrar tu base de datos.
 
-## Contribución
 
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, asegúrate de seguir las pautas de contribución y envía tus cambios a través de un pull request.
-
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
